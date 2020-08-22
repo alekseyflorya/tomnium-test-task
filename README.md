@@ -1,3 +1,7 @@
+Front-end test task Tomnium by Aleksey Florya
+
+DEMO of this app you can view at [tomnium.florik.top](https://tomnium.florik.top/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
